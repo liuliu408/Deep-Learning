@@ -2,7 +2,7 @@
 
 github如何建仓库
 
-github如何删除仓库
+Github如何删除repository(仓库)
 
 github如何写文章
 
