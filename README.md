@@ -3,10 +3,10 @@
      直接在要换行的语句最后打上2个空格。
 
   ## 2. GIT 第二问 Pycharm上传projects 到github 并创建 repository：  
-     https://blog.csdn.net/olfisher/article/details/53790432  
+   https://blog.csdn.net/olfisher/article/details/53790432  
      
   ## 3. 如何在Github中删除已有仓库或文件：
-     https://blog.csdn.net/weixin_42152081/article/details/80635777  
+   https://blog.csdn.net/weixin_42152081/article/details/80635777  
 
   ## 4. github 添加密钥实现无密码操作
    https://blog.csdn.net/wanglei_storage/article/details/53258804
