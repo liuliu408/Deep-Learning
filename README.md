@@ -1,6 +1,5 @@
  # Github上README.md编辑格式使用
-   <img src="https://drive.google.com/uc?id=0B8-i_hZvGyZNMzFBb2RMWjJ0Z2s&amp;export=download" width="720" /> 
- ## 1. 当我们在README.md写好内容时，发现它缩到一起了，怎么办呢？
+  ## 1. 当我们在README.md写好内容时，发现它缩到一起了，怎么办呢？
      直接在要换行的语句最后打上2个空格。
 
   ## 2. GitHub上README.md排版样式教程
@@ -29,8 +28,12 @@
 单行文本：前面使用两个Tab
 多行文本:每行行首加两个Tab
 部分文字高亮：使用``包围，这个符号不是单引号，而是Tab上方，数字1左边那个按键的符号
+
+   <img src="https://drive.google.com/uc?id=0B8-i_hZvGyZNMzFBb2RMWjJ0Z2s&amp;export=download" width="720" /> 
 ```
-        
+  <img src="https://ss1.baidu.com/6ONXsjip0QIZ8tyhnq/it/u=3261261637,2227305285&fm=173&app=25&f=JPEG?w=640&h=427&s=971A34CA8D42145D5840500A03005044;export=download" width="720" /> 
+  
+     
   ## 3. 如何在README.md文件中添加图片？
    第一步：首先，向github 上传所需的图片；    
    第二部：打开README文件，写入图片的格式为：   
