@@ -1,13 +1,12 @@
 
  # Github上README.md编辑格式使用  
- （Markdown是一种可以使用普通文本编辑器编写的标记语言    
-  https://blog.csdn.net/qcx321/article/details/53780672  
+
+  <!-- Markdown是一种可以使用普通文本编辑器编写的标记语言  https://blog.csdn.net/qcx321/article/details/53780672   -->   
+  
  -----------------------------------------------[liuqiang](https://sites.google.com/view/qiangliu/)------------------------
  
   ## 1. 当我们在README.md写好内容时，发现它缩到一起了，怎么办呢？
      直接在要换行的语句最后打上2个空格。
-
-  <!-- 艾斯德斯多所多所多所 -->  
   
   ## 2. GitHub上README.md排版样式教程
   https://blog.csdn.net/u012067966/article/details/50736647 
