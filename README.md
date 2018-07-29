@@ -35,12 +35,12 @@
 部分文字高亮：使用``包围，这个符号不是单引号，而是Tab上方，数字1左边那个按键的符号
 、在键盘的ESC键下。 
 ```
-<font face="黑体">我是黑体字</font>
-<font face="微软雅黑">我是微软雅黑</font>
-<font face="STCAIYUN">我是华文彩云</font>
-<font color=#0099ff size=12 face="黑体">黑体</font>
-<font color=#00ffff size=3>null</font>
-<font color=gray size=5>gray</font>
+  <font face="黑体">我是黑体字</font>
+  <font face="微软雅黑">我是微软雅黑</font>
+  <font face="STCAIYUN">我是华文彩云</font>
+  <font color=#0099ff size=12 face="黑体">黑体</font>
+  <font color=#00ffff size=3>null</font>
+  <font color=gray size=5>gray</font>
      
   ## 3. 如何在README.md文件中添加图片？
    第一步：首先，向github 上传所需的图片；    
