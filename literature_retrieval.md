@@ -6,6 +6,8 @@
   [EI检索](https://www.engineeringvillage.com/search/quick.url)  
   [知网检索](http://epub.cnki.net/KNS/brief/result.aspx?dbprefix=CJFQ)  
   
+  [SCISCI影响因子查询](https://www.letpub.com.cn/)
+  
   ### 学者主页
   [Chao Ma](https://sites.google.com/site/chaoma99/)  
   [Jia-Bin Huang](https://filebox.ece.vt.edu/~jbhuang/)  
