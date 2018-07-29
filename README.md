@@ -43,11 +43,11 @@
           
   ## 6. 如何在README.md文件中添加图片？
    第一步：首先，向github 上传所需的图片；    
-   第二部：打开README文件，写入图片的格式为：
-   
+   第二部：打开README文件，写入图片的格式为：   
    ```
-   ![Image text](图片的URL) --必须给出图片路径才可以显示（支持图片格式png和jpg） 
+   ![Image text](图片的URL) 
    ![Image text]这个标识不可缺少，不然就显示文字了。Image text：指的是如果图片不存在了，要显示的文字说明。
+    图片的URL：给出图片路径（支持图片格式png和jpg）如：https://github.com/liuliu408/image/blob/master/image1.png 
    ```
    ![image](https://github.com/liuliu408/image/blob/master/image1.png)
  
