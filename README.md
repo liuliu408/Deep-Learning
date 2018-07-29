@@ -4,7 +4,8 @@
 
   ## 2. GitHub上README.md排版样式教程
   https://blog.csdn.net/u012067966/article/details/50736647 
-  
+  https://www.cnblogs.com/leechanx/archive/2013/03/25/3322616.html 
+  https://www.cnblogs.com/shiy/p/6526868.html
 ```  
  #一级标题  
  ##二级标题  
@@ -22,7 +23,11 @@
 **这个是粗体**<br>
 *这个是斜体* <br>
 ***这个是粗体加斜体***<br> 
- 
+
+换行：使用标签<br>
+单行文本：前面使用两个Tab
+多行文本:每行行首加两个Tab
+部分文字高亮：使用``包围，这个符号不是单引号，而是Tab上方，数字1左边那个按键的符号
 ```
 
   ## 3. GIT 第二问 Pycharm上传projects 到github 并创建 repository：  
@@ -53,7 +58,3 @@
    ![image](https://github.com/liuliu408/image/blob/master/image1.png)
  
  
-
-|列1的内容1|列2的内容1|
-|列1的内容2|列2的内容2|
-
