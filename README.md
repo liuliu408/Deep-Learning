@@ -24,7 +24,7 @@ github 添加密钥实现无密码操作
 二、查看公钥
     密钥对生成完成后存放于当前用户 ~/.ssh 目录中，查看 id_rsa.pub
     
-    ! [image] (https://github.com/liuliu408/image/master/image1.png)；
+    ! [image] (https://github.com/liuliu408/image/blob/master/image1.png)；
 
 1，向README文件中添加图片，用于展示程序效果或辅助说明！
 
