@@ -5,7 +5,7 @@
 
   ## 2. GitHub上README.md排版样式教程
   https://blog.csdn.net/u012067966/article/details/50736647 
-  https://www.cnblogs.com/leechanx/archive/2013/03/25/3322616.html 
+  https://www.cnblogs.com/leechanx/archive/2013/03/25/3322616.html  
   https://www.cnblogs.com/shiy/p/6526868.html
 ```  
  #一级标题  
