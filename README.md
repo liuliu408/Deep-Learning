@@ -46,7 +46,7 @@
    
    ##  4. 显示图片方法2
    ```
-   <img src="https://drive.google.com/uc?id=0B8-i_hZvGyZNMzFBb2RMWjJ0Z2s&amp;export=download" width="720" /> 
-   指定网页的上的图片地址复制过来：https://drive.google.com/uc?id=0B8-i_hZvGyZNMzFBb2RMWjJ0Z2s&amp;export=download
+   <img src="https://upload-images.jianshu.io/upload_images/64542-b2610724831ceb28.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/700" ；export=download width="720" /> 
+   指定网页的上的图片地址复制过来：https://upload-images.jianshu.io/upload_images/64542-b2610724831ceb28.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/700;
    ```
-   <img src="https://upload-images.jianshu.io/upload_images/64542-b2610724831ceb28.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/700" width="720" /> 
+   <img src="https://upload-images.jianshu.io/upload_images/64542-b2610724831ceb28.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/700" export=download width="720" /> 
