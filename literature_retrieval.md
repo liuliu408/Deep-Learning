@@ -1,3 +1,7 @@
+  # 文献检索
+  [researchgate](https://www.researchgate.net/about)
+ 
+  ### 学者主页
   [Chao Ma](https://sites.google.com/site/chaoma99/)  
   [Jia-Bin Huang](https://filebox.ece.vt.edu/~jbhuang/)  
   [Xiaokang Yang](http://english.seiee.sjtu.edu.cn/english/detail/842_802.htm)   
