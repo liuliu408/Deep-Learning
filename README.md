@@ -1,5 +1,5 @@
 
-  ## 1. 当我们在README.md写好内容时，发现它缩到一起了，不是我们想要的格式，怎么办呢？  
+  ## 1. 当我们在README.md写好内容时，发现它缩到一起了，怎么办呢？
      直接在要换行的语句最后打上2个空格。
 
   # 2. GIT 第二问 Pycharm上传projects 到github 并创建 repository：  
