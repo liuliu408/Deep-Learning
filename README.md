@@ -47,7 +47,8 @@
    ```
    ![Image text](图片的URL) 
    ![Image text]这个标识不可缺少，不然就显示文字了。Image text：指的是如果图片不存在了，要显示的文字说明。
-    图片的URL：给出图片路径（支持图片格式png和jpg）如：https://github.com/liuliu408/image/blob/master/image1.png 
+    图片的URL：给出图片路径（支持图片格式png和jpg）
+    如：![image](https://github.com/liuliu408/image/blob/master/image1.png) 
    ```
    ![image](https://github.com/liuliu408/image/blob/master/image1.png)
  
