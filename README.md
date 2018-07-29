@@ -1,5 +1,7 @@
-
-  ## 1. 当我们在README.md写好内容时，发现它缩到一起了，怎么办呢？
+ # Github上README.md编辑格式使用
+ ===
+ 
+ ## 1. 当我们在README.md写好内容时，发现它缩到一起了，怎么办呢？
      直接在要换行的语句最后打上2个空格。
 
   ## 2. GitHub上README.md排版样式教程
@@ -29,24 +31,8 @@
 多行文本:每行行首加两个Tab
 部分文字高亮：使用``包围，这个符号不是单引号，而是Tab上方，数字1左边那个按键的符号
 ```
-
-  ## 3. GIT 第二问 Pycharm上传projects 到github 并创建 repository：  
-   https://blog.csdn.net/olfisher/article/details/53790432  
-     
-  ## 4. 如何在Github中删除已有仓库或文件：
-   https://blog.csdn.net/weixin_42152081/article/details/80635777  
-
-  ## 5. github 添加密钥实现无密码操作
-   https://blog.csdn.net/wanglei_storage/article/details/53258804
-
-   ### （1）生成ssh密钥对
-       当然上传之前肯定要自己先生成ssh key了。  
-       windows的用户可以下载xshell之类的工具来生成；  
-       linux就直接输命令:ssh-keygen -t rsa    #一直回车下去，不输入密码!  
-   ### （2）查看公钥  
-       密钥对生成完成后存放于当前用户 ~/.ssh 目录中，查看 id_rsa.pub  
-          
-  ## 6. 如何在README.md文件中添加图片？
+        
+  ## 3. 如何在README.md文件中添加图片？
    第一步：首先，向github 上传所需的图片；    
    第二部：打开README文件，写入图片的格式为：   
    ```
