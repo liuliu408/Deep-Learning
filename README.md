@@ -23,4 +23,6 @@ github 添加密钥实现无密码操作
     linux就直接输命令:ssh-keygen -t rsa    #一直回车下去，不输入密码!
 二、查看公钥
     密钥对生成完成后存放于当前用户 ~/.ssh 目录中，查看 id_rsa.pub
-https://github.com/liuliu408/other/blob/03c37dce9362fdf5b4a31a9e5021207d559bca27/1.png
+    
+    ! [add ] (https://github.com/liuliu408/other/blob/03c37dce9362fdf5b4a31a9e5021207d559bca27/1.png)；
+
