@@ -26,3 +26,12 @@ github 添加密钥实现无密码操作
     
     ! [add ] (https://github.com/liuliu408/other/blob/03c37dce9362fdf5b4a31a9e5021207d559bca27/1.png)；
 
+1，向README文件中添加图片，用于展示程序效果或辅助说明！
+
+  两步： 首先，向github 上传所需的图片；
+ 
+ 然后，打开README文件，写入图片的格式为：
+
+    ![image](https://github.com/secondLieutenantCoder/TableAndCollection/blob/master/resut.png?raw=true)
+
+    ![image](图片的URL)
