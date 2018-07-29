@@ -28,11 +28,9 @@
 单行文本：前面使用两个Tab
 多行文本:每行行首加两个Tab
 部分文字高亮：使用``包围，这个符号不是单引号，而是Tab上方，数字1左边那个按键的符号
-
-   <img src="https://drive.google.com/uc?id=0B8-i_hZvGyZNMzFBb2RMWjJ0Z2s&amp;export=download" width="720" /> 
+、在键盘的ESC键下。 
 ```
-  <img src="https://ss1.baidu.com/6ONXsjip0QIZ8tyhnq/it/u=3261261637,2227305285&fm=173&app=25&f=JPEG?w=640&h=427&s=971A34CA8D42145D5840500A03005044;export=download" width="720" /> 
-  
+
      
   ## 3. 如何在README.md文件中添加图片？
    第一步：首先，向github 上传所需的图片；    
@@ -46,3 +44,9 @@
    ![image](https://github.com/liuliu408/image/blob/master/image2.png)
    ![image](https://github.com/liuliu408/image/blob/master/image3.png)
    
+   ##  4. 显示图片方法2
+   ```
+   <img src="https://drive.google.com/uc?id=0B8-i_hZvGyZNMzFBb2RMWjJ0Z2s&amp;export=download" width="720" /> 
+   指定网页的上的图片地址复制过来：https://drive.google.com/uc?id=0B8-i_hZvGyZNMzFBb2RMWjJ0Z2s&amp;export=download
+   ```
+     <img src="https://gss0.bdstatic.com/-4o3dSag_xI4khGkpoWK1HF6hhy/baike/w%3D268%3Bg%3D0/sign=4f7bf38ac3fc1e17fdbf8b3772ab913e/d4628535e5dde7119c3d076aabefce1b9c1661ba.jpg" width="720" /> 
