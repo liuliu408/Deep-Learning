@@ -48,14 +48,15 @@ Ubuntu下git本地仓库与远程仓库的同步
    备注：pull把我们远处仓库的文件下下来
 
    要更新你的本地仓库至最新改动，执行：git pull（git pull #将远程仓库里面的项目拉下来）
-
+----------------------------------------------------------------------------------------------------
 6.  把远程的仓库下载下来（创建一个本地仓库的克隆版本）
     如：git clone git@github.com:liuliu408/tracking.git
 
 7. 假如你想要丢弃你所有的本地改动与提交，可以到服务器上获取最新的版本并将你本地主分支指向到它!!
 	git fetch origin
 	git reset --hard origin/master
-
+8. 远程仓库文件有更新，重新下载下来
+        git pull git@github.com:liuliu408/other.git
 
 二、将本地仓库文件的修改提交到远程仓库
 1. cd liuq        //进入liuq文件夹
