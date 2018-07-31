@@ -124,8 +124,6 @@ https://blog.csdn.net/weixin_36185028/article/details/53711258
     $ git remote add origin git@github.com:liuliu408/tracking.git   //连接远程github项目  
     $ git push -u origin master     //将本地项目更新到github项目上去、
 
-
-
 ----------------------------------------------------------------------------------
 git log -p master..origin/master   比较本地的master分支和origin/master分支的差别 
 
@@ -160,7 +158,10 @@ fatal: Could not read from remote repository.
     2、再输入$ git push origin master
 
 ----------------------------------------------------------------------------------
-
+Pycharm项目上传到Github
+https://blog.csdn.net/xierhacker/article/details/70053162
+https://blog.csdn.net/m0_37306360/article/details/79322947
+http://blog.51cto.com/41175/1883716
 
 
 
