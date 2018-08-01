@@ -1,5 +1,4 @@
-<img src=
-"https://lh4.googleusercontent.com/V4DWS3mFDKaEdvRkcYX64YTX1MxHsstxzhjrtShVMtq7yHX7uyBecOKJ4Y4QU99AnQBO3jlYOVtFZ7YRVnpZ2Cba7DC3U_kXhnF4ruyo5NBLW7_ZuCDq=w271"；export=download width="720" /> 
+<img src="https://lh4.googleusercontent.com/V4DWS3mFDKaEdvRkcYX64YTX1MxHsstxzhjrtShVMtq7yHX7uyBecOKJ4Y4QU99AnQBO3jlYOVtFZ7YRVnpZ2Cba7DC3U_kXhnF4ruyo5NBLW7_ZuCDq=w271" /> 
 
  ### 文献检索
   [arxiv](https://arxiv.org/)----arXiv（X依希腊文的χ发音，读音如英语的archive）/ɑ:kaɪv/  
