@@ -3,8 +3,9 @@
 
   <!-- Markdown是一种可以使用普通文本编辑器编写的标记语言  https://blog.csdn.net/qcx321/article/details/53780672   -->   
   
- -----------------------------------------------[liuqiang](https://sites.google.com/view/qiangliu/)------------------------
+ [liuqiang](https://sites.google.com/view/qiangliu/)
  
+  ***
   ## 1. 当我们在README.md写好内容时，发现它缩到一起了，怎么办呢？
      直接在要换行的语句最后打上2个空格。
   
@@ -12,6 +13,7 @@
   https://blog.csdn.net/u012067966/article/details/50736647 
   https://www.cnblogs.com/leechanx/archive/2013/03/25/3322616.html  
   https://www.cnblogs.com/shiy/p/6526868.html
+  https://blog.csdn.net/zhaokaiqiang1992/article/details/41349819
 ```  
  #一级标题  
  ##二级标题  
