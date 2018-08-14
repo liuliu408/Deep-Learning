@@ -5,7 +5,7 @@
   ***
   # Github上README.md编辑格式使用  
   ## 1. 当我们在README.md写好内容时，发现它缩到一起了，怎么办呢？
-     直接在要换行的语句最后打上2个空格。
+    >  > 直接在要换行的语句最后打上2个空格。
   
   ## 2. GitHub上README.md排版样式教程
   https://www.appinn.com/markdown/  
