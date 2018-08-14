@@ -13,7 +13,7 @@
   
   [SCI影响因子查询](https://www.letpub.com.cn/)
   IF=Influence factor影响因子 
---- 
+***
   ### SCi检索
   Neurocomputing（2区 ，3.317 ，约5.7个月 ）  
   IEEE Transactions on Intelligent Transportation Systems（2区 ，3.724 ）  
@@ -32,17 +32,17 @@
   Journal of Electronic Imaging（4区 ，0.754）JEI  
   IEICE Transactions on Information and Systems（4区 ，0.411）  
   IET Computer Vision（4区 ，0.878，平均1月 ）  
- ---
+***
    ### EI检索期刊
    Journal of Communications (JCM, ISSN 1796-2021)  
    Journal of Computers (JCP, ISSN 1796-203X)  
    Journal of Multimedia (JMM, ISSN 1796-2048)  
    Journal of Networks (JNW, ISSN 1796-2056)  
    Journal of Software (JSW, ISSN 1796-217X)  
- ---
+*** 
   ### 中文核心
   [2014年版北大核心目录(第七版)](http://www.cauc.edu.cn/xb/25.html)
-	 [2015年版北大核心目录(第七版)](http://www.360doc.com/content/16/0114/11/28554471_527813503.shtml)
+  [2015年版北大核心目录(第七版)](http://www.360doc.com/content/16/0114/11/28554471_527813503.shtml)
   [2018年版北大中文核心期刊目录](http://www.seek68.cn/bdhxqkml-7.htm)
 
 计算机系统应用		普刊
