@@ -2,7 +2,7 @@
   [google主页](https://sites.google.com/view/qiangliu/%E9%A6%96%E9%A1%B5)  
   
   word中把所有大写字母变成小写：选中想要更改大小写的英文字母或英文单词，按住“Shift”键，同时按下“F3”键，循环地按“F3”键，每次按“F3”键时英文单词的格式会在全部大写、首字母大写和全部小写格式之间进行切换  
-  
+***  
  ### 文献检索
   [arxiv](https://arxiv.org/)----arXiv（X依希腊文的χ发音，读音如英语的archive）/ɑ:kaɪv/  
   [researchgate](https://www.researchgate.net/about)  
@@ -41,27 +41,27 @@
    Journal of Software (JSW, ISSN 1796-217X)  
 *** 
   ### 中文核心
-  [2014年版北大核心目录(第七版)](http://www.cauc.edu.cn/xb/25.html)
-  [2015年版北大核心目录(第七版)](http://www.360doc.com/content/16/0114/11/28554471_527813503.shtml)
-  [2018年版北大中文核心期刊目录](http://www.seek68.cn/bdhxqkml-7.htm)
+  [2014年版北大核心目录(第七版)](http://www.cauc.edu.cn/xb/25.html)  
+  [2015年版北大核心目录(第七版)](http://www.360doc.com/content/16/0114/11/28554471_527813503.shtml)  
+  [2018年版北大中文核心期刊目录](http://www.seek68.cn/bdhxqkml-7.htm)  
 
-计算机系统应用		普刊
-现代计算机(专业版)	普刊
-信息技术与网络安全	普刊
-微型机与应用		普刊
-信息技术与网络安全	普刊
-计算机应用与软件	普刊
+计算机系统应用	   	普刊  
+现代计算机(专业版)	普刊  
+信息技术与网络安全	普刊  
+微型机与应用	     	普刊  
+信息技术与网络安全	普刊  
+计算机应用与软件	  普刊  
  
-科学技术与工程		核心
-电视技术	      	核心
-电子技术应用	  	核心
-液晶与显示		     核心
-计算机工程与应用	核心
-计算机应用研究		核心
-计算机应用		    核心
-自动化学报		    核心
-光学学报		      核心
----
+科学技术与工程		  核心  
+电视技术	        	核心  
+电子技术应用	    	核心  
+液晶与显示		      核心  
+计算机工程与应用	 核心  
+计算机应用研究		  核心  
+计算机应用		      核心  
+自动化学报		      核心  
+光学学报		       核心  
+***
   ### 学者主页
    [Ming-Hsuan Yang](http://faculty.ucmerced.edu/mhyang/)  
    [João F. Henriques](www.robots.ox.ac.uk/~joao/circulant/index.html)  
