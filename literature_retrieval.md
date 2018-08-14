@@ -41,9 +41,13 @@
    Journal of Multimedia (JMM, ISSN 1796-2048)  
    Journal of Networks (JNW, ISSN 1796-2056)  
    Journal of Software (JSW, ISSN 1796-217X)  
-   
-   Conference article(CA)，则为会议检索论文；Journal article(JA)，则为期刊检索论文
-   目前来说，EI期刊源刊基本是JA检索类型。 评职称时档次高于EI检索会议类型。EI期刊源刊的含金量绝对远高于EI检索会议。
+  
+  |刊物名称     |刊物类型  | 
+|-|-|
+|自动化学报		       |EI  |
+|光学学报		         |EI  |
+
+   Conference article(CA)，则为会议检索论文；Journal article(JA)，则为期刊检索论文，目前来说，EI期刊源刊基本是JA检索类型。 评职称时档次高于EI检索会议类型。EI期刊源刊的含金量绝对远高于EI检索会议。
 *** 
   ### 中文核心
   [2014年版北大核心目录(第七版)](http://www.cauc.edu.cn/xb/25.html)  
@@ -65,8 +69,7 @@
 |计算机工程与应用  	|核心  |
 |计算机应用研究		   |核心  |
 |计算机应用		       |核心  |
-|自动化学报		       |EI  |
-|光学学报		         |EI  |
+
 
 ***
   ### 学者主页
