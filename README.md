@@ -8,9 +8,9 @@
      直接在要换行的语句最后打上2个空格。
   
   ## 2. GitHub上README.md排版样式教程
-  https://www.appinn.com/markdown/
-  http://www.cnblogs.com/liugang-vip/p/6337580.html
-  https://www.cnblogs.com/shiy/p/6526868.html  
+  https://www.appinn.com/markdown/  
+  http://www.cnblogs.com/liugang-vip/p/6337580.html  
+  https://www.cnblogs.com/shiy/p/6526868.html    
   https://blog.csdn.net/zhaokaiqiang1992/article/details/41349819  
 ```  
  #一级标题  
