@@ -1,7 +1,7 @@
  ## liuq（58570305，liuliu408@163.com，图像信息研究所614）  
   <!-- Markdown是一种可以使用普通文本编辑器编写的标记语言  https://blog.csdn.net/qcx321/article/details/53780672   -->   
-  [本人google主页](https://sites.google.com/view/qiangliu/)
- 
+  [我的google主页](https://sites.google.com/view/qiangliu/)
+  [我的知呼](https://www.zhihu.com/people/liuwangqiang/activities)  
   ***
   # Github上README.md编辑格式使用  
   ## 1. 当我们在README.md写好内容时，发现它缩到一起了，怎么办呢？
