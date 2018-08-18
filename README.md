@@ -13,13 +13,7 @@
   https://www.cnblogs.com/shiy/p/6526868.html    
   https://blog.csdn.net/zhaokaiqiang1992/article/details/41349819  
 
-  <font face="黑体">我是黑体字</font>  
-  <font face="微软雅黑">我是微软雅黑</font>  
-  <font face="STCAIYUN">我是华文彩云</font>  
-  <font color=#0099ff size=12 face="黑体">黑体</font>  
-  <font color=#00ffff size=3>null</font>  
-  <font color=gray size=5>gray</font>  
-     
+      
   ## 3. 如何在README.md文件中添加图片？
    第一步：首先，向github 上传所需的图片；    
    第二部：打开README文件，写入图片的格式为：   
