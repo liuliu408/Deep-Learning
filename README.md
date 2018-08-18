@@ -33,5 +33,4 @@
   上面的网址是指定网页的上的图片地址复制过来：https://upload-images.jianshu.io/upload_images/64542-b2610724831ceb28.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/700
    ```
    <img src="https://upload-images.jianshu.io/upload_images/64542-b2610724831ceb28.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/700" /> 
-   
-  <img src="https://lh6.googleusercontent.com/UKy1TX5JQVXqh1_xoLAzzIqIJFRSP3Yt3Hu6WXZyxf0l4kpJ-TH7ZxqT8twb_GdkQAeofcjqlqXm9ShqKO-6MD7TJ7QL71kLx7UdIpLBDPEUQEzyTw=w170" />   
+
