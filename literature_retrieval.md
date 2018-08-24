@@ -78,8 +78,8 @@
   ### 学者主页
    [Ming-Hsuan Yang](http://faculty.ucmerced.edu/mhyang/)  
    [João F. Henriques](www.robots.ox.ac.uk/~joao/circulant/index.html)  
-   [David Held](http://www.hamedkiani.com/) http://davheld.github.io/ 
-   [Martin Danelljan](users.isy.liu.se/cvl/marda26/)  
+   [David Held](http://www.hamedkiani.com/) http://davheld.github.io/   
+   [Martin Danelljan](users.isy.liu.se/cvl/marda26/)    
    [Hamed Kiani（卡耐基梅隆大学机器人研究所）](www.hamedkiani.com)  
    [Kaiming He 何恺明](http://kaiminghe.com/)  
    [卢湖川](http://ice.dlut.edu.cn/lu/publications.html)  
