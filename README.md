@@ -1,4 +1,6 @@
  ## liuq（58570305，liuliu408@163.com，图像信息研究所614）  
+ 
+  ## 只要思想不滑坡，办法总比困难多！
   <!-- Markdown是一种可以使用普通文本编辑器编写的标记语言  https://blog.csdn.net/qcx321/article/details/53780672   -->   
   [我的google主页](https://sites.google.com/view/qiangliu/)  
   [我的知呼](https://www.zhihu.com/people/liuwangqiang/activities)  
