@@ -83,7 +83,7 @@
    [Hamed Kiani（卡耐基梅隆大学机器人研究所）](www.hamedkiani.com)  
    [Kaiming He 何恺明](http://kaiminghe.com/)  
    [卢湖川](http://ice.dlut.edu.cn/lu/publications.html)  
-   [Chao Ma](https://sites.google.com/site/chaoma99/)    
+   [Chao Ma马超](https://sites.google.com/site/chaoma99/)    
    [张天柱](http://nlpr-web.ia.ac.cn/mmc/homepage/tzzhang/index.html)  
    [Jia-Bin Huang](https://filebox.ece.vt.edu/~jbhuang/)  
    [Xiaokang Yang](http://english.seiee.sjtu.edu.cn/english/detail/842_802.htm)   
