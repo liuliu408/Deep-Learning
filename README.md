@@ -1,6 +1,6 @@
  ## liuq（58570305，liuliu408@163.com，图像信息研究所614）  
 ***
- git·hub：/’git·hʌb/
+ git·hub：/’git·hʌb/  
  arXiv（X依希腊文的χ发音，读音如英语的archive）/ɑ:kaɪv/
 ***
   ## 只要思想不滑坡，办法总比困难多！
