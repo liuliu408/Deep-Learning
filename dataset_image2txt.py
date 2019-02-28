@@ -1,3 +1,8 @@
+#制作txt文件
+# -*- coding: utf-8 -*-
+# @Author: liuqiang
+# @Date:   2019-02-27 18:10:53
+
 import os
 train_file = open('VOCdevkit/VOC2007/ImageSets/Main/train.txt', 'w')
 test_file = open('VOCdevkit/VOC2007/ImageSets/Main/test.txt', 'w')
