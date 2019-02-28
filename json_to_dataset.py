@@ -89,3 +89,9 @@ def main():
 if __name__ == '__main__':
     #base64path = argv[1]
     main()
+   
+# 将本程序替换掉labelme/cli中的相应文件—json_to_dataset.py 。
+# 在cmd中输入python json_to_dateset.py  /path/你的json文件夹的路径。
+# 运行后，在json文件夹中会出现mask_png、labelme_json文件夹，mask_png中存放的是所有8位掩码文件！！！
+#（不是16位，很多教程还得需要转换，我这里就不要转换了，一键生成，可右键png查看详细信息）。labelme_json文件夹中存放的是json解析后的图片。
+
