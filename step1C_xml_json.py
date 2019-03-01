@@ -175,5 +175,7 @@ def parseXmlFiles(xml_path):
 if __name__ == '__main__':
     xml_path = './train_xml'
     json_file = 'gj_instances_train.json'
+    # xml_path = 'dataset/test_anatation'
+    # json_file = 'dataset/test.json'    
     parseXmlFiles(xml_path)
     json.dump(coco, open(json_file, 'w'))
