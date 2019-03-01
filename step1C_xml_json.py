@@ -173,9 +173,7 @@ def parseXmlFiles(xml_path):
                     addAnnoItem(object_name, current_image_id, current_category_id, bbox )
 
 if __name__ == '__main__':
-    xml_path = './train_xml'
-    json_file = 'gj_instances_train.json'
-    # xml_path = 'dataset/test_anatation'
-    # json_file = 'dataset/test.json'    
+    xml_path  = './train_xml'              #xml文件路径
+    json_file = 'gj_instances_train.json'  #保存json文件路径（当前根目录）及其保存的文件名
     parseXmlFiles(xml_path)
     json.dump(coco, open(json_file, 'w'))
